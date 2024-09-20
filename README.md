@@ -1,0 +1,5 @@
+# Papers from reading group
+
+List
+* [From_Local_To_Global_A_Graph_RAG_Approach_To_Query_Focused_Summarization](notes/From_Local_To_Global_A_Graph_RAG_Approach_To_Query_Focused_Summarization.md)
+
