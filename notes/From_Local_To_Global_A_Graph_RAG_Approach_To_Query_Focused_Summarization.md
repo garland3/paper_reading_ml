@@ -39,3 +39,20 @@
 * [Downloaded paper](data/graph_rag.pdf)
 * [Semantic Scholar](https://www.semanticscholar.org/paper/From-Local-to-Global%3A-A-Graph-RAG-Approach-to-Edge-Trinh/c1799bf28d1ae93e1631be5b59196ee1e568f538)
 * [A reading group video](https://www.youtube.com/watch?v=r09tJfON6kE)
+
+# Examples of where normal RAG fails.
+
+* What are the top 5 items in this dataset? This fails since it is a global question. Example is here in the video: [https://youtu.be/r09tJfON6kE?si=CeDU3pY0oNk9B3sS&t=634](https://youtu.be/r09tJfON6kE?si=CeDU3pY0oNk9B3sS&t=634)
+* What are the main themes in this dataset?
+
+## images
+
+* from the video. 
+ 
+![Image: Alex Chao - GraphRAG LLM-Derived Knowledge Graphs for RAG [r09tJfON6kE - 1280x720 - 4m18s]](../images/overview.png)
+
+Comapres 3 methods of RAG. 
+
+![Image: Alex Chao - GraphRAG LLM-Derived Knowledge Graphs for RAG [r09tJfON6kE - 1280x720 - 4m18s]](../images/3methods.png)
+
+## Notes
